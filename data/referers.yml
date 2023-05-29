@@ -420,7 +420,7 @@ social:
     domains:
       - getpocket.com
       
-    ITU Sozluk:
+  ITU Sozluk:
     domains:
       - itusozluk.com
       
@@ -789,12 +789,6 @@ search:
       - q
     domains:
       - search.conduit.com
-
-  Comcast:
-    parameters:
-      - q
-    domains:
-      - serach.comcast.net
 
   Crawler:
     parameters:
